@@ -95,7 +95,4 @@ VITE_FIREBASE_PROJECT_ID=your_project_id
 5. **Investment Playground**: Interactive investment calculators
 6. **Admin Panel**: Content and user management
 
-## 📄 License
-
-MIT License
 
