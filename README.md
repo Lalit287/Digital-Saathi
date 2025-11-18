@@ -12,6 +12,19 @@ A comprehensive web + mobile responsive application aimed at improving digital l
 - **Multilingual Support**: Available in 10+ Indian languages
 - **Admin Panel**: Manage lessons, users, and content
 
+👥 Team
+
+Gubba Yasodhar
+
+Lalit Aditya Yanala
+
+Karthik Cherukuru
+
+Keerthana Badavath
+
+Sankalp Gurram
+
+
 ## 📁 Project Structure
 
 ```
